@@ -6,7 +6,9 @@ TileFox is a minimalistic **userChrome.css** theme for Mozilla Firefox, that:
 * Respects the system's **GTK+ theme**.
 
 ![Floating window screenshot](.github/screenshot-floating.png)
-_Screenshot made with [i3-gaps](https://github.com/Airblader/i3) as WM and [Gruvbox GTK](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) theme._
+![Busy screenshow](.github/screenshot-busy.png)
+
+_Screenshots made with [i3-gaps](https://github.com/Airblader/i3) as WM and [Gruvbox GTK](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) theme._
 
 ## Installation
 
